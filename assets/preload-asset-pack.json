@@ -2,9 +2,24 @@
     "section1": {
         "files": [
             {
+                "url": "assets/bigwin/big_win_bg.png",
+                "type": "image",
+                "key": "big_win_bg"
+            },
+            {
                 "url": "assets/guapen.png",
                 "type": "image",
                 "key": "guapen"
+            },
+            {
+                "url": "assets/bigwin/text_big.png",
+                "type": "image",
+                "key": "text_big"
+            },
+            {
+                "url": "assets/bigwin/text_win.png",
+                "type": "image",
+                "key": "text_win"
             }
         ]
     },
